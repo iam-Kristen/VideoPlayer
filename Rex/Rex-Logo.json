@@ -1,0 +1,206 @@
+{
+  "name": "Rex",
+  "description": "Complete 50-icon Rex set from iam-Kristen/VideoPlayer",
+  "icons": [
+    {
+      "name": "Rex-Black",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/Rex-Black.png"
+    },
+    {
+      "name": "Rex",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/Rex.PNG"
+    },
+    {
+      "name": "Rex_Orange",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/Rex_Orange.PNG"
+    },
+    {
+      "name": "Rex_Purple",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/Rex_Purple.PNG"
+    },
+    {
+      "name": "Rex_Rainbow",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/Rex_Rainbow.PNG"
+    },
+    {
+      "name": "Rex_Rainbow_Lite",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/Rex_Rainbow_Lite.PNG"
+    },
+    {
+      "name": "Rex_Red",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/Rex_Red.PNG"
+    },
+    {
+      "name": "Rex_White",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/Rex_White.PNG"
+    },
+    {
+      "name": "blue_azure",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/blue_azure.png"
+    },
+    {
+      "name": "blue_cerulean",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/blue_cerulean.png"
+    },
+    {
+      "name": "blue_cobalt",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/blue_cobalt.png"
+    },
+    {
+      "name": "blue_denim",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/blue_denim.png"
+    },
+    {
+      "name": "blue_royal",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/blue_royal.png"
+    },
+    {
+      "name": "blue_sky",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/blue_sky.png"
+    },
+    {
+      "name": "green_apple",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/green_apple.png"
+    },
+    {
+      "name": "green_emerald",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/green_emerald.png"
+    },
+    {
+      "name": "green_fern",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/green_fern.png"
+    },
+    {
+      "name": "green_kelly",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/green_kelly.png"
+    },
+    {
+      "name": "green_lime",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/green_lime.png"
+    },
+    {
+      "name": "green_seafoam",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/green_seafoam.png"
+    },
+    {
+      "name": "indigo_deep_indigo",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/indigo_deep_indigo.png"
+    },
+    {
+      "name": "indigo_indigo",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/indigo_indigo.png"
+    },
+    {
+      "name": "indigo_iris",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/indigo_iris.png"
+    },
+    {
+      "name": "indigo_periwinkle",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/indigo_periwinkle.png"
+    },
+    {
+      "name": "indigo_twilight",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/indigo_twilight.png"
+    },
+    {
+      "name": "indigo_ultramarine",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/indigo_ultramarine.png"
+    },
+    {
+      "name": "orange_amber",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/orange_amber.png"
+    },
+    {
+      "name": "orange_cantaloupe",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/orange_cantaloupe.png"
+    },
+    {
+      "name": "orange_flame",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/orange_flame.png"
+    },
+    {
+      "name": "orange_papaya",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/orange_papaya.png"
+    },
+    {
+      "name": "orange_pumpkin",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/orange_pumpkin.png"
+    },
+    {
+      "name": "orange_tangerine",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/orange_tangerine.png"
+    },
+    {
+      "name": "purple_amethyst",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/purple_amethyst.png"
+    },
+    {
+      "name": "purple_grape",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/purple_grape.png"
+    },
+    {
+      "name": "purple_lilac",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/purple_lilac.png"
+    },
+    {
+      "name": "purple_orchid",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/purple_orchid.png"
+    },
+    {
+      "name": "purple_royal_purple",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/purple_royal_purple.png"
+    },
+    {
+      "name": "purple_violet",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/purple_violet.png"
+    },
+    {
+      "name": "red_brick",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/red_brick.png"
+    },
+    {
+      "name": "red_cherry",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/red_cherry.png"
+    },
+    {
+      "name": "red_crimson",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/red_crimson.png"
+    },
+    {
+      "name": "red_lava",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/red_lava.png"
+    },
+    {
+      "name": "red_raspberry",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/red_raspberry.png"
+    },
+    {
+      "name": "red_scarlet",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/red_scarlet.png"
+    },
+    {
+      "name": "yellow_banana",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/yellow_banana.png"
+    },
+    {
+      "name": "yellow_butter",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/yellow_butter.png"
+    },
+    {
+      "name": "yellow_canary",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/yellow_canary.png"
+    },
+    {
+      "name": "yellow_honey",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/yellow_honey.png"
+    },
+    {
+      "name": "yellow_lemon",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/yellow_lemon.png"
+    },
+    {
+      "name": "yellow_sunflower",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/yellow_sunflower.png"
+    }
+  ]
+}
