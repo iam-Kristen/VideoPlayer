@@ -653,6 +653,22 @@
     {
       "name": "Rex_White",
       "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/Rex_White.PNG"
+    },
+    {
+      "name": "g3_aurora_horizontal",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/g3_aurora_horizontal.png"
+    },
+    {
+      "name": "g4_candy_reverse_diag",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/g4_candy_reverse_diag.png"
+    },
+    {
+      "name": "g5_conic_rainbow",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/g5_conic_rainbow.png"
+    },
+    {
+      "name": "g7_wave_vivid",
+      "url": "https://raw.githubusercontent.com/iam-Kristen/VideoPlayer/main/Rex/icon/g7_wave_vivid.png"
     }
   ]
 }
